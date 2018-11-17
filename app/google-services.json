@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392279102840",
+    "firebase_url": "https://ajnobi-b505a.firebaseio.com",
+    "project_id": "ajnobi-b505a",
+    "storage_bucket": "ajnobi-b505a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392279102840:android:f92d0ea4be40d1bd",
+        "android_client_info": {
+          "package_name": "com.ajnobi.mahabub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392279102840-d790nbkfpdk8g2ljn5oeu3436tkak2df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajnobi.mahabub",
+            "certificate_hash": "cb3c5c103670d8c8bc558a0e6d9bd56c9f4ad03b"
+          }
+        },
+        {
+          "client_id": "392279102840-7ce1q1gd9slijs7dklavo1g59b745775.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6gv0fuY2at2ttd-LLGs9KOAGEJ8mCdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392279102840-7ce1q1gd9slijs7dklavo1g59b745775.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
